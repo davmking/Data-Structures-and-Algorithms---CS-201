@@ -1,3 +1,11 @@
+/*Write method values that returns the values stored in the leaves of its tree parameter tree.
+Each value stored in in a leaf is a number between 65 and 90, inclusive, and should be interpreted
+as a corresponding letter "A" through "Z".
+
+The values should be returned as a sorted array of strings, each string a single letter "A" through "Z".
+
+Leaves have no children. */
+
 import java.util.ArrayList;
 import java.util.Collections;
 
